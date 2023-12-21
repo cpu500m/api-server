@@ -3,6 +3,9 @@
 ### Host -> 0.0.0.0 지정 . 모든 Host 접근 가능.
 ### Port -> 기본포트. 8080으로 설정.
 
+## 추상화 구조
+![image](https://github.com/cpu500m/api-server/assets/80875680/a9416244-66fc-4516-90c7-8277a88b4bfd)<br>
+
 ## 결과
 
 #### 루트 경로 기본요청 (Get)
