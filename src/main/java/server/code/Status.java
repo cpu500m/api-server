@@ -8,5 +8,9 @@ public class Status {
     static public final int REDIRECT = 300;
     static public final int CLIENT_ERROR = 400;
     static public final int CANNOT_FOUND = 404;
+
+    static public final int METHOD_NOT_ALLOWED = 405;
+    static public final String UNSUPPORTED_MESSAGE = "지원하지 않는 메서드입니다.";
     static public final int SERVER_ERROR = 500;
+
 }
